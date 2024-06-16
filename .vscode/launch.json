@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-OnetomanyApplication<onetomany>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.andregattermeyer.onetomany.OnetomanyApplication",
+            "projectName": "onetomany",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
